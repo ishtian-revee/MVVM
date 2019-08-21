@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ForecastMVVM</string>
+
+<!--    bottom nav titles-->
+    <string name="bottom_nav_today">Today</string>
+    <string name="bottom_nav_7_days">7 Days</string>
+    <string name="settings">Settings</string>
 </resources>
